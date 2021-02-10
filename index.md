@@ -53,6 +53,13 @@
             <li>Mac Management via Jamf</li>
           </ul>
         </div>
+	<h6 class="text text-9">Bl.ocks.org code! &nbsp;</h6>
+          <ul class="text text-12">
+            <li>Assignment 2</li>
+            <li><a href="https://bl.ocks.org/alex-ignus/c4df705b13a33713883e93e08abc9cf7" class="var-btn var-button-style var-btn-2">Code Blocks: Bargraph</a></li>
+            <li><a href="https://bl.ocks.org/alex-ignus/b2d8129035118131edbd34409015d905" class="var-btn var-button-style var-btn-2">Code Blocks: Dot-Plot</a></li>
+           <li><a href="https://bl.ocks.org/alex-ignus/0a737aac64307b24ad0077bc48809292" class="var-btn var-button-style var-btn-2">Code Blocks: HeatMap</a></li>
+          </ul>
         <p class="text text-2">&nbsp; </p>
         <h6 class="text text-6">&nbsp;Useful Links</h6>
         <a href="https://drive.google.com/file/d/1A00kmIocRYtZxbAhm1LtCfN8RpvW70HQ/view?usp=sharing" class="var-btn var-button-style var-btn-1">My Resume</a>
