@@ -60,6 +60,10 @@
             <li><a href="https://bl.ocks.org/alex-ignus/b2d8129035118131edbd34409015d905" class="var-btn var-button-style var-btn-2">Code Blocks: Dot-Plot</a></li>
            <li><a href="https://bl.ocks.org/alex-ignus/0a737aac64307b24ad0077bc48809292" class="var-btn var-button-style var-btn-2">Code Blocks: HeatMap</a></li>
           </ul>
+          <ul class="text text-12">
+            <li>Assignment 3</li>
+            <li><a href="https://bl.ocks.org/alex-ignus/eebd3acdaa0468146633dce8ce94afed" class="var-btn var-button-style var-btn-2">Code Blocks: Histogram</a></li>
+          </ul>
         <p class="text text-2">&nbsp; </p>
         <h6 class="text text-6">&nbsp;Useful Links</h6>
         <a href="https://drive.google.com/file/d/1A00kmIocRYtZxbAhm1LtCfN8RpvW70HQ/view?usp=sharing" class="var-btn var-button-style var-btn-1">My Resume</a>
