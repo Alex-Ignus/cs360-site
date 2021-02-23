@@ -64,6 +64,10 @@
             <li>Assignment 3</li>
             <li><a href="https://bl.ocks.org/alex-ignus/eebd3acdaa0468146633dce8ce94afed" class="var-btn var-button-style var-btn-2">Code Blocks: Histogram</a></li>
           </ul>
+	  <ul class="text text-12">
+            <li>Assignment 4</li>
+            <li><a href="https://bl.ocks.org/Alex-Ignus/d3872e11d7f51b5ed07b2fc95184665f" class="var-btn var-button-style var-btn-2">Code Blocks: Animation</a></li>
+          </ul>
         <p class="text text-2">&nbsp; </p>
         <h6 class="text text-6">&nbsp;Useful Links</h6>
         <a href="https://drive.google.com/file/d/1A00kmIocRYtZxbAhm1LtCfN8RpvW70HQ/view?usp=sharing" class="var-btn var-button-style var-btn-1">My Resume</a>
