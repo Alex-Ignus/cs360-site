@@ -71,11 +71,13 @@
 	  <ul class="text text-12">
             <li>Assignment 5</li>
             <li><a href="https://bl.ocks.org/Alex-Ignus/73ab1b6f617ee39bedc0f3f2b111ec9f" class="var-btn var-button-style var-btn-2">Code Blocks: Barchar in d3</a></li>
+            <li><a href="https://bl.ocks.org/Alex-Ignus/1ce1f169b29e95a2f34b124629f4c04f" class="var-btn var-button-style var-btn-2">Code Blocks: WIP scatterplot in d3</a></li>
           </ul>
 	  <ul class="text text-12">
-            <li>Assignment 5</li>
-            <li><a href="https://bl.ocks.org/Alex-Ignus/1ce1f169b29e95a2f34b124629f4c04f" class="var-btn var-button-style var-btn-2">Code Blocks: Attempt at a Scatterplot in d3</a></li>
-          </ul>
+            <li>Assignment 6</li>
+            <li><a href="https://bl.ocks.org/alex-ignus/9ff54820e22e68488b87b45ba17d9cdf" class="var-btn var-button-style var-btn-2">Code Blocks: Linechart in d3</a></li>
+            <li><a href="https://bl.ocks.org/alex-ignus/79b9bdef6555e1cf70792c67f892c7bc" class="var-btn var-button-style var-btn-2">Code Blocks: WIP Bubblechart in d3</a></li>
+        </ul>
         <p class="text text-2">&nbsp; </p>
         <h6 class="text text-6">&nbsp;Useful Links</h6>
         <a href="https://drive.google.com/file/d/1A00kmIocRYtZxbAhm1LtCfN8RpvW70HQ/view?usp=sharing" class="var-btn var-button-style var-btn-1">My Resume</a>
