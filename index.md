@@ -4,7 +4,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="Welcome to my Site">
     <meta name="description" content="">
-	<title>Home</title>
   </head>
   <body class="var-body">
     <section class="var-clearfix var-section-1" id="sec-4d2e">
