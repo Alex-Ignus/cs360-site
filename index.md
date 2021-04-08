@@ -4,12 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="Welcome to my Site">
     <meta name="description" content="">
-    <title>Home</title>
-
-    <meta property="og:title" content="index">
-    <meta property="og:type" content="website">
-    <meta name="theme-color" content="#478ac9">
-      <meta property="og:url" content="index.html">
+	<title>Home</title>
   </head>
   <body class="var-body">
     <section class="var-clearfix var-section-1" id="sec-4d2e">
