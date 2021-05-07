@@ -75,6 +75,7 @@
 	<ul class="text text-12">
             <li>Assignment 7</li>
             <li><a href="http://bl.ocks.org/alex-ignus/639cbc83863aacad902163e55425ed15" class="var-btn var-button-style var-btn-2">Code Blocks: Sequential Color Scale Bar Graph in D3</a></li>
+		 </ul>
 	<ul class="text text-12">
             <li>Assignment 10</li>
             <li><a href="https://bl.ocks.org/alex-ignus/ff0314e37b72cc6054741cc95ba2938f" class="var-btn var-button-style var-btn-2">Code Blocks: Visualizing Geographical Data in D3 Map1</a></li>
